@@ -1,1 +1,6 @@
-{"Language":"en","MainColor":"CommingSoon"}
+{
+	"Language": "en",
+	"MainColor": "#9900FF",
+	"BroadCast": true,
+	"EncryptFeature": true
+}
