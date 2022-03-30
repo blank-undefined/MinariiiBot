@@ -29,7 +29,7 @@
 	},
 	"homepage": "https://github.com/mraikero-01/MinariiiBot",
 	"dependencies": {
-		"@maihuybao/fca-unofficial": "^1.3.13-2",
+		"@maihuybao/fca-unofficial": "",
 		"@miraipr0ject/assets": "",
 		"axios": "",
 		"body-parser": "",
