@@ -1,7 +1,7 @@
 {
-	"name": "Nari",
+	"name": "MAG NANAKAW JOHN LESTER",
 	"version": "2.0.6",
-	"description": "Messenger bot made by blank",
+	"description": "Credits to aizen - blank",
 	"main": "mirai.js",
 	"scripts": {
 		"start": "node index",
