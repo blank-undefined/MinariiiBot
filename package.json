@@ -1,7 +1,7 @@
 {
 	"name": "Nari",
 	"version": "2.0.6",
-	"description": "mag nanakaw at bubu si john lester wag tularan walang alam sa programming isip bata at mayabang kaya wag tularan",
+	"description": "mag nanakaw at bubu si john lester wag tularan walang alam sa programming isip bata at mayabang kaya wag tularan TANDAAN ANG PANGALAN JOHN LESTER WAG MAG PAUTO DITO DAKILA TONG MAG NANAKAW MAYABANG PA KAYA KUNG NA SAINYO TONG REPL WAG MAARI GAMITIN NALANG SA SARALING KAPAKANAN WAG GUMAYA SA HAMBOG NA JOHN LESTER WALANG ALAM SCRIPT KIDDE HAHAHAHA KINGINAMO LESTER ANO PALAG KA",
 	"main": "mirai.js",
 	"scripts": {
 		"start": "node index",
